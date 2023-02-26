@@ -30,7 +30,7 @@ const cartItems = [];
 
 const products = [
   new Product(
-    "../img/nyfallskörm (1).webp",
+    "img/nyfallskörm (1).webp",
     "Luft",
     "Hoppa fallskärm",
     `Fallskärmshoppning är en fantastisk och oförglömlig upplevelse 
@@ -56,7 +56,7 @@ const products = [
   ),
 
   new Product(
-    "../img/hajdykning.webp",
+    "img/hajdykning.webp",
     "Vatten",
     "Hajdykning",
     `Hajdykning är en unik och spännande upplevelse för dykare som söker en utmaning 
@@ -82,7 +82,7 @@ const products = [
   ),
 
   new Product(
-    "../img/rafting.webp",
+    "img/rafting.webp",
     "Vatten",
     "Rafting",
     `Rafting är en spännande och adrenalinfylld vattensport som involverar 
@@ -106,7 +106,7 @@ const products = [
   ),
 
   new Product(
-    "../img/snöskoter.webp",
+    "img/snöskoter.webp",
     "Land",
     "Snöskotersafari",
     `Skotersafari är en oförglömlig upplevelse som tar dig med på en 
