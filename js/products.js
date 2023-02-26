@@ -30,7 +30,7 @@ const cartItems = [];
 
 const products = [
   new Product(
-    "../img/nyfallskörm (1).webp",
+    "img/nyfallskörm (1).webp",
     "Luft",
     "Hoppa fallskärm",
     `Fallskärmshoppning är en fantastisk och oförglömlig upplevelse 
